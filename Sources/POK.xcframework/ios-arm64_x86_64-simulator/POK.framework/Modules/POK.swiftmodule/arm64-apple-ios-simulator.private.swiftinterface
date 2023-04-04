@@ -1,0 +1,229 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios15.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name POK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+@_exported import POK
+import SocketIO
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+@objc @_inheritsConvenienceInitializers public class VerificationLauncher : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  public func show()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class SocketConnection {
+  open class var `default`: POK.SocketConnection {
+    get
+  }
+  open class var instance: POK.CustomActivityIndicator {
+    get
+  }
+  open var socket: SocketIO.SocketIOClient
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class TopNotification {
+  open class var instance: POK.TopNotification {
+    get
+  }
+  open func presentTopNotification(title: Swift.String, subtitle: Swift.String, image: Swift.String = "warning", color: UIKit.UIColor, duration: Foundation.TimeInterval = 3.0)
+  open func presentErrorNotification(with message: Swift.String)
+  open func presentWarningNotification(with message: Swift.String)
+  @objc deinit
+}
+public struct FileURLComponents {
+}
+public protocol FileWritable {
+  func write(to fileURLComponents: POK.FileURLComponents) throws -> Foundation.URL
+}
+public protocol FileReadable {
+  static func read<T>(_ type: T.Type, from fileURLComponents: POK.FileURLComponents) throws -> T where T : Swift.Decodable
+}
+public protocol FileDeletable {
+  static func delete(_ fileURLComponents: POK.FileURLComponents) throws -> Swift.Bool
+}
+public typealias Fileable = POK.FileDeletable & POK.FileReadable & POK.FileWritable
+public enum FileError : Swift.Error {
+  case unableToCreateDirectory(directory: Swift.String, reason: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers public class File : ObjectiveC.NSObject {
+  public static func write(_ text: Swift.String, to fileURLComponents: POK.FileURLComponents) throws -> Foundation.URL
+  public static func read(from fileURLComponents: POK.FileURLComponents) throws -> Swift.String
+  public static func delete(_ fileURLComponents: POK.FileURLComponents) throws -> Swift.Bool
+  public static func exists(_ fileURLComponents: POK.FileURLComponents) throws -> Swift.Bool
+  @objc override dynamic public init()
+  @objc deinit
+}
+@propertyWrapper public struct CodableIgnored<T> : Swift.Codable {
+  public var wrappedValue: T?
+  public init(wrappedValue: T?)
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+extension Swift.KeyedDecodingContainer {
+  public func decode<T>(_ type: POK.CodableIgnored<T>.Type, forKey key: Swift.KeyedDecodingContainer<K>.Key) throws -> POK.CodableIgnored<T>
+}
+extension Swift.KeyedEncodingContainer {
+  public mutating func encode<T>(_ value: POK.CodableIgnored<T>, forKey key: Swift.KeyedEncodingContainer<K>.Key) throws
+}
+@_hasMissingDesignatedInitializers public class ImageProvider {
+  public static func picture(named: Swift.String) -> UIKit.UIImage
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class AuthenticatedPaymentOverlayController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension POK.AuthenticatedPaymentOverlayController : UIKit.UIViewControllerTransitioningDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func presentationController(forPresented presented: UIKit.UIViewController, presenting: UIKit.UIViewController?, source: UIKit.UIViewController) -> UIKit.UIPresentationController?
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class PresentationController : UIKit.UIPresentationController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(presentedViewController: UIKit.UIViewController, presenting presentingViewController: UIKit.UIViewController?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var frameOfPresentedViewInContainerView: CoreFoundation.CGRect {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func presentationTransitionWillBegin()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func dismissalTransitionWillBegin()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func containerViewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func containerViewDidLayoutSubviews()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class CustomActivityIndicator {
+  open class var instance: POK.CustomActivityIndicator {
+    get
+  }
+  open func show()
+  open func showWithMessage(message: Swift.String)
+  open func hide()
+  @objc deinit
+}
+public enum HTTPMethod : Swift.String {
+  case get
+  case post
+  case put
+  case patch
+  case delete
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension Foundation.URLRequest {
+  public func send<T>(expecting: POK.GenericResponse<T>.Type, completion: @escaping (Swift.Result<T, Swift.Error>) -> Swift.Void) where T : Swift.Decodable, T : Swift.Encodable
+}
+public struct GenericResponse<T> : Swift.Codable where T : Swift.Decodable, T : Swift.Encodable {
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+public enum CAGradientPoint {
+  case topLeft
+  case centerLeft
+  case bottomLeft
+  case topCenter
+  case center
+  case bottomCenter
+  case topRight
+  case centerRight
+  case bottomRight
+  public static func == (a: POK.CAGradientPoint, b: POK.CAGradientPoint) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers open class POKAuth : ObjectiveC.NSObject {
+  open class var instance: POK.POKAuth {
+    get
+  }
+  @objc override dynamic public init()
+  public func proceedPayment(merchantId: Swift.String, orderId: Swift.String)
+  public func showUnauthenticatedView()
+  public func showAuthenticatedView(token: Swift.String)
+  public func proceedAuth(with contexts: Swift.Set<UIKit.UIOpenURLContext>)
+  @objc deinit
+}
+public enum BannerPosition {
+  case top, bottom
+  public static func == (a: POK.BannerPosition, b: POK.BannerPosition) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum BannerSpringiness {
+  case none, slight, heavy
+  public static func == (a: POK.BannerSpringiness, b: POK.BannerSpringiness) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_Concurrency.MainActor(unsafe) open class Banner : UIKit.UIView {
+  @objc @_Concurrency.MainActor(unsafe) open var animationDuration: Swift.Double
+  @objc @_Concurrency.MainActor(unsafe) open var preferredStatusBarStyle: UIKit.UIStatusBarStyle
+  @objc @_Concurrency.MainActor(unsafe) open var adjustsStatusBarStyle: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var position: POK.BannerPosition
+  @_Concurrency.MainActor(unsafe) open var springiness: POK.BannerSpringiness
+  @objc @_Concurrency.MainActor(unsafe) open var textColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
+  @objc @_Concurrency.MainActor(unsafe) open var minimumHeight: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) open var hasShadows: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var backgroundColor: UIKit.UIColor? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var alpha: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @_Concurrency.MainActor(unsafe) open var didTapBlock: (() -> ())?
+  @objc @_Concurrency.MainActor(unsafe) open var didDismissBlock: (() -> ())?
+  @objc @_Concurrency.MainActor(unsafe) open var dismissesOnTap: Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) open var dismissesOnSwipe: Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) open var shouldTintImage: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc @_Concurrency.MainActor(unsafe) final public let titleLabel: UIKit.UILabel
+  @objc @_Concurrency.MainActor(unsafe) final public let detailLabel: UIKit.UILabel
+  @objc @_Concurrency.MainActor(unsafe) final public let imageView: UIKit.UIImageView
+  @objc @_Concurrency.MainActor(unsafe) required public init(title: Swift.String? = nil, subtitle: Swift.String? = nil, image: UIKit.UIImage? = nil, backgroundColor: UIKit.UIColor = UIColor.black, didTapBlock: (() -> ())? = nil)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func didMoveToSuperview()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) open func show(_ view: UIKit.UIView? = nil, duration: Foundation.TimeInterval? = nil)
+  @_Concurrency.MainActor(unsafe) open func dismiss(_ oldStatusBarStyle: UIKit.UIStatusBarStyle? = nil)
+  @objc deinit
+}
+extension UIKit.UIColor {
+  public static let gray2: UIKit.UIColor
+  public static let gray3: UIKit.UIColor
+  public static let gray5: UIKit.UIColor
+  public static let gradient1: UIKit.UIColor
+  public static let gradient2: UIKit.UIColor
+  public static let gray6: UIKit.UIColor
+  public static let primary: UIKit.UIColor
+  public static let gray7: UIKit.UIColor
+  public static let gray4: UIKit.UIColor
+}
+extension POK.HTTPMethod : Swift.Equatable {}
+extension POK.HTTPMethod : Swift.Hashable {}
+extension POK.HTTPMethod : Swift.RawRepresentable {}
+extension POK.CAGradientPoint : Swift.Equatable {}
+extension POK.CAGradientPoint : Swift.Hashable {}
+extension POK.BannerPosition : Swift.Equatable {}
+extension POK.BannerPosition : Swift.Hashable {}
+extension POK.BannerSpringiness : Swift.Equatable {}
+extension POK.BannerSpringiness : Swift.Hashable {}

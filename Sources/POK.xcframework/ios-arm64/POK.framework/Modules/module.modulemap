@@ -1,0 +1,11 @@
+framework module POK {
+  umbrella header "POK.h"
+
+  export *
+  module * { export * }
+}
+
+module POK.Swift {
+  header "POK-Swift.h"
+  requires objc
+}

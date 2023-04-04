@@ -1,0 +1,23 @@
+<html style="padding: 0">
+<header>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=${initialScale}, maximum-scale=${maxScale}, user-scalable=0">
+</header>
+
+<body style="padding: 0">
+<iframe id="cardinal_collection_iframe" name="collectionIframe" height="1" width="1" style="display: none;"></iframe>
+<form id="cardinal_collection_form" method="POST" target="collectionIframe" action="deviceDataCollection_url">
+    <input id="cardinal_collection_form_input" type="hidden" name="JWT" value="deviceDataCollection_accessToken">
+</form>
+</body>
+<script>
+    let cardinalCollectionForm = document.querySelector('#cardinal_collection_form');
+    if(cardinalCollectionForm) {
+      cardinalCollectionForm.submit();
+    }
+     window.addEventListener("message", () => {
+         window.webkit.messageHandlers.iosClickListener.postMessage('guest_listener');
+    });
+</script>
+
+</html>
