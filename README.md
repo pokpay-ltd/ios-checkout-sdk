@@ -1,3 +1,3 @@
 # POKCheckoutSDK
 
-A description of this package.
+Pok merchant IOS checkout SDK
