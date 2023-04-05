@@ -25,7 +25,7 @@ let package = Package(
           name: "POKWrapper",
           dependencies:[
               .target(name: "POK"),
-              "SocketIO",
+              .product(name: "SocketIO", package: "socket.io-client-swift")
           ],
           path: "POKWrapper"
         ),
