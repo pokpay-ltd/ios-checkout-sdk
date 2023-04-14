@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-checkout-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pokpay-ltd/ios-checkout-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e6a50ce917a7ef7ac4c139b2553df0fc46354550"
+      }
+    },
+    {
+      "identity" : "socket.io-client-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/socketio/socket.io-client-swift",
+      "state" : {
+        "revision" : "148c30247480cd96a068d38b1594e95a5f7bc1df",
+        "version" : "15.0.0"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream",
+      "state" : {
+        "revision" : "a063fda2b8145a231953c20e7a646be254365396",
+        "version" : "3.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -14,6 +14,7 @@ class ViewController: UIViewController {
        let tf = UITextField()
         tf.placeholder = "Merchant ID"
         tf.backgroundColor = .gray2
+        tf.textColor = .black
         tf.layer.cornerRadius = 5
         return tf
     }()
@@ -22,6 +23,7 @@ class ViewController: UIViewController {
        let tf = UITextField()
         tf.placeholder = "Order ID"
         tf.backgroundColor = .gray2
+        tf.textColor = .black
         tf.layer.cornerRadius = 5
         return tf
     }()
