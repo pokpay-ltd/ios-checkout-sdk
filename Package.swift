@@ -30,6 +30,9 @@ let package = Package(
           name: "POKWrapper",
           dependencies:[
               .target(name: "POK"),
+              .target(name: "RLTMXBehavioralBiometrics"),
+              .target(name: "RLTMXProfiling"),
+              .target(name: "RLTMXProfilingConnections"),
               .product(name: "SocketIO", package: "socket.io-client-swift")
           ],
           path: "POKWrapper"
@@ -37,6 +40,18 @@ let package = Package(
         .binaryTarget(
           name: "POK",
           path: "./Sources/POK.xcframework"
-        )
+        ),
+        .binaryTarget(
+          name: "RLTMXProfiling",
+          path: "./Sources/RLTMXProfiling.xcframework"
+        ),
+        .binaryTarget(
+          name: "RLTMXProfilingConnections",
+          path: "./Sources/RLTMXProfilingConnections.xcframework"
+        ),
+        .binaryTarget(
+          name: "RLTMXBehavioralBiometrics",
+          path: "./Sources/RLTMXBehavioralBiometrics.xcframework"
+        ),
     ]
 )
