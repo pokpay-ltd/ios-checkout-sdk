@@ -4,6 +4,8 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 @_exported import POK
+import RLTMXProfiling
+import RLTMXProfilingConnections
 import SocketIO
 import Swift
 import UIKit

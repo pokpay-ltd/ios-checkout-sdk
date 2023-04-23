@@ -1692,6 +1692,44 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "POK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "POK"
+      },
+      {
+        "kind": "Import",
+        "name": "RLTMXProfiling",
+        "printedName": "RLTMXProfiling",
+        "declKind": "Import",
+        "moduleName": "POK"
+      },
+      {
+        "kind": "Import",
+        "name": "RLTMXProfilingConnections",
+        "printedName": "RLTMXProfilingConnections",
+        "declKind": "Import",
+        "moduleName": "POK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "POK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -7011,21 +7049,77 @@
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
       "kind": "StringLiteral",
-      "offset": 743,
+      "offset": 1211,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
       "kind": "StringLiteral",
-      "offset": 833,
+      "offset": 1301,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
       "kind": "StringLiteral",
-      "offset": 858,
+      "offset": 1326,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1416,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1438,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1467,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1488,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1526,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1572,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1599,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/Check3dsEnrollmentResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1630,
       "length": 2,
       "value": "\"\""
     },
@@ -7474,27 +7568,27 @@
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Strings.swift",
       "kind": "StringLiteral",
       "offset": 2093,
-      "length": 15,
-      "value": "\"Rguga \/ lagja\""
+      "length": 16,
+      "value": "\"Rruga \/ Lagjia\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 2132,
+      "offset": 2133,
       "length": 9,
       "value": "\"Telefon\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 2165,
+      "offset": 2166,
       "length": 7,
       "value": "\"Email\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 2195,
+      "offset": 2196,
       "length": 6,
       "value": "\"Next\""
     },
@@ -8227,6 +8321,48 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "StringLiteral",
+      "offset": 387,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "StringLiteral",
+      "offset": 464,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "StringLiteral",
+      "offset": 547,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/TrustDefender.swift",
+      "kind": "BooleanLiteral",
+      "offset": 609,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 147,
@@ -8249,78 +8385,99 @@
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
+      "kind": "Array",
+      "offset": 367,
+      "length": 4,
+      "value": "[\"\"]"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 350,
+      "offset": 398,
       "length": 9,
       "value": "\"TestIOS\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 387,
+      "offset": 435,
       "length": 10,
       "value": "\"John Doe\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 423,
+      "offset": 471,
       "length": 18,
       "value": "\"4622943127013705\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 477,
+      "offset": 525,
       "length": 5,
       "value": "\"001\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 516,
+      "offset": 564,
       "length": 7,
       "value": "\"12\/22\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 555,
+      "offset": 603,
       "length": 5,
       "value": "\"838\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 737,
+      "offset": 785,
       "length": 12,
       "value": "\"loginToken\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 774,
+      "offset": 822,
       "length": 5,
       "value": "\"txt\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 915,
+      "offset": 963,
       "length": 13,
       "value": "\"bearerToken\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 953,
+      "offset": 1001,
       "length": 5,
       "value": "\"txt\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1099,
+      "offset": 1135,
+      "length": 11,
+      "value": "\"sessionID\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1171,
+      "length": 5,
+      "value": "\"txt\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1317,
       "length": 10,
       "value": "\"rpay.POK\""
     },
@@ -8747,63 +8904,70 @@
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 664,
+      "offset": 666,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 701,
+      "offset": 703,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 719,
+      "offset": 721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 755,
+      "offset": 757,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 780,
+      "offset": 782,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 797,
+      "offset": 799,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 831,
+      "offset": 833,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 873,
+      "offset": 875,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
       "kind": "StringLiteral",
-      "offset": 896,
+      "offset": 898,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Models\/GuestConfirmRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
       "length": 2,
       "value": "\"\""
     },
@@ -8872,36 +9036,57 @@
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
-      "kind": "StringLiteral",
-      "offset": 1099,
-      "length": 13,
-      "value": "\"Kredite POK\""
+      "kind": "Array",
+      "offset": 1149,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
       "kind": "StringLiteral",
-      "offset": 1114,
+      "offset": 1197,
+      "length": 19,
+      "value": "\"credit-debit-card\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1244,
       "length": 15,
       "value": "\"Karte krediti\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1320,
+      "length": 13,
+      "value": "\"rpay-credit\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1361,
+      "length": 13,
+      "value": "\"Kredite POK\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1166,
+      "offset": 1470,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
       "kind": "StringLiteral",
-      "offset": 1424,
+      "offset": 1728,
       "length": 7,
       "value": "\"Anulo\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Views\/ChoosePaymentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1508,
+      "offset": 1812,
       "length": 2,
       "value": "16"
     },
@@ -9180,428 +9365,386 @@
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "Array",
+      "offset": 440,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 19,
+      "value": "\"credit-debit-card\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "StringLiteral",
+      "offset": 608,
+      "length": 13,
+      "value": "\"rpay-credit\""
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 451,
+      "offset": 756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 719,
+      "offset": 1024,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 823,
+      "offset": 1128,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 839,
+      "offset": 1144,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 895,
+      "offset": 1200,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 911,
+      "offset": 1216,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1173,
+      "offset": 1478,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1401,
+      "offset": 1706,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1483,
+      "offset": 1788,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1739,
+      "offset": 2044,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1777,
+      "offset": 2082,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1782,
+      "offset": 2087,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1839,
+      "offset": 2144,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 1893,
+      "offset": 2198,
       "length": 16,
       "value": "\"arrow-right-up\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "FloatLiteral",
-      "offset": 2117,
+      "offset": 2422,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2123,
+      "offset": 2428,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2173,
+      "offset": 2478,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2224,
+      "offset": 2529,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2319,
+      "offset": 2624,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2359,
+      "offset": 2664,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2729,
+      "offset": 3034,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2767,
+      "offset": 3072,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2772,
+      "offset": 3077,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2829,
+      "offset": 3134,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 2883,
+      "offset": 3188,
       "length": 16,
       "value": "\"arrow-right-up\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "FloatLiteral",
-      "offset": 3107,
+      "offset": 3412,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3113,
+      "offset": 3418,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3163,
+      "offset": 3468,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3214,
+      "offset": 3519,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3309,
+      "offset": 3614,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3349,
+      "offset": 3654,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3620,
+      "offset": 3925,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3787,
+      "offset": 4092,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4068,
+      "offset": 4373,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4322,
+      "offset": 4627,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4420,
+      "offset": 4725,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4459,
+      "offset": 4764,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4490,
+      "offset": 4795,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4532,
+      "offset": 4837,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4542,
+      "offset": 4847,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4553,
+      "offset": 4858,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4668,
+      "offset": 4973,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4707,
+      "offset": 5012,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4738,
+      "offset": 5043,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4780,
+      "offset": 5085,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4790,
+      "offset": 5095,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4801,
+      "offset": 5106,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5032,
+      "offset": 5337,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5047,
+      "offset": 5352,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5405,
+      "offset": 5710,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5503,
+      "offset": 5808,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5542,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5573,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5615,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5625,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5636,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5745,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5784,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5815,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5857,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5867,
+      "offset": 5847,
       "length": 1,
       "value": "0"
     },
@@ -9615,567 +9758,567 @@
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6104,
-      "length": 2,
-      "value": "46"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6119,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6363,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6461,
+      "offset": 5920,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6500,
+      "offset": 5930,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6531,
+      "offset": 5941,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6573,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6583,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6594,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6701,
+      "offset": 6050,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6740,
+      "offset": 6089,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6771,
+      "offset": 6120,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6813,
+      "offset": 6162,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6823,
+      "offset": 6172,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6834,
+      "offset": 6183,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6409,
+      "length": 2,
+      "value": "46"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6424,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6668,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6766,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6805,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6836,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6878,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6888,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6899,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7006,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7045,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7076,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7118,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7128,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7139,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 6980,
+      "offset": 7285,
       "length": 6,
       "value": "\"1001\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7040,
+      "offset": 7345,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7055,
+      "offset": 7360,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7307,
+      "offset": 7612,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7405,
+      "offset": 7710,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7444,
+      "offset": 7749,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7475,
+      "offset": 7780,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7517,
+      "offset": 7822,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7527,
+      "offset": 7832,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7538,
+      "offset": 7843,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7653,
+      "offset": 7958,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7692,
+      "offset": 7997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7723,
+      "offset": 8028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7765,
+      "offset": 8070,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7775,
+      "offset": 8080,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7786,
+      "offset": 8091,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8017,
+      "offset": 8322,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8032,
+      "offset": 8337,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8280,
+      "offset": 8585,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8378,
+      "offset": 8683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8417,
+      "offset": 8722,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8448,
+      "offset": 8753,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8490,
+      "offset": 8795,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8500,
+      "offset": 8805,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8511,
+      "offset": 8816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8622,
+      "offset": 8927,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8661,
+      "offset": 8966,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8692,
+      "offset": 8997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8734,
+      "offset": 9039,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8744,
+      "offset": 9049,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8755,
+      "offset": 9060,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8970,
+      "offset": 9275,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8985,
+      "offset": 9290,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9233,
+      "offset": 9538,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9331,
+      "offset": 9636,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9370,
+      "offset": 9675,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9401,
+      "offset": 9706,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9443,
+      "offset": 9748,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9453,
+      "offset": 9758,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9464,
+      "offset": 9769,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9575,
+      "offset": 9880,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9614,
+      "offset": 9919,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9645,
+      "offset": 9950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9687,
+      "offset": 9992,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9697,
+      "offset": 10002,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9708,
+      "offset": 10013,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9923,
+      "offset": 10228,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9938,
+      "offset": 10243,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10171,
+      "offset": 10476,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10209,
+      "offset": 10514,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10214,
+      "offset": 10519,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10271,
+      "offset": 10576,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10535,
+      "offset": 10840,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10816,
+      "offset": 11121,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11072,
+      "offset": 11377,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11170,
+      "offset": 11475,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11209,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11240,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11282,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11292,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11303,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11412,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11451,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11482,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11524,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11534,
+      "offset": 11514,
       "length": 1,
       "value": "0"
     },
@@ -10188,372 +10331,435 @@
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11587,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11597,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11608,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11717,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11756,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11787,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11829,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11839,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11850,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 11692,
+      "offset": 11997,
       "length": 14,
       "value": "\"ex. John Doe\""
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11760,
+      "offset": 12065,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11775,
+      "offset": 12080,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12030,
+      "offset": 12335,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12128,
+      "offset": 12433,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12167,
+      "offset": 12472,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12198,
+      "offset": 12503,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12240,
+      "offset": 12545,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12250,
+      "offset": 12555,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12261,
+      "offset": 12566,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12374,
+      "offset": 12679,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12413,
+      "offset": 12718,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12444,
+      "offset": 12749,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12486,
+      "offset": 12791,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12496,
+      "offset": 12801,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12507,
+      "offset": 12812,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12741,
+      "offset": 13046,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12756,
+      "offset": 13061,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13014,
+      "offset": 13319,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13112,
+      "offset": 13417,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13151,
+      "offset": 13456,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13182,
+      "offset": 13487,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13224,
+      "offset": 13529,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13234,
+      "offset": 13539,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13245,
+      "offset": 13550,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13366,
+      "offset": 13671,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13405,
+      "offset": 13710,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13436,
+      "offset": 13741,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13478,
+      "offset": 13783,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13488,
+      "offset": 13793,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13499,
+      "offset": 13804,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13736,
+      "offset": 14041,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13751,
+      "offset": 14056,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13995,
+      "offset": 14300,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14093,
+      "offset": 14398,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14132,
+      "offset": 14437,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14163,
+      "offset": 14468,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14205,
+      "offset": 14510,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14215,
+      "offset": 14520,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14226,
+      "offset": 14531,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14333,
+      "offset": 14638,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14372,
+      "offset": 14677,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14403,
+      "offset": 14708,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14445,
+      "offset": 14750,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14455,
+      "offset": 14760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14466,
+      "offset": 14771,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14689,
+      "offset": 14994,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14704,
+      "offset": 15009,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14939,
+      "offset": 15244,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14977,
+      "offset": 15282,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14982,
+      "offset": 15287,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15039,
+      "offset": 15344,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/thomas\/Downloads\/pok-apps\/ios-sdk\/POK\/Controllers\/UnauthenticatedPayment\/UnauthenticatedPaymentController.swift",
       "kind": "Array",
-      "offset": 15384,
+      "offset": 15689,
       "length": 2,
       "value": "[]"
     }
