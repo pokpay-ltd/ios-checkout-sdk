@@ -36,6 +36,9 @@ import _StringProcessing
   open func presentWarningNotification(with message: Swift.String)
   @objc deinit
 }
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func anchor(top: UIKit.NSLayoutYAxisAnchor?, paddingTop: CoreFoundation.CGFloat, left: UIKit.NSLayoutXAxisAnchor?, paddingLeft: CoreFoundation.CGFloat, bottom: UIKit.NSLayoutYAxisAnchor?, paddingBottom: CoreFoundation.CGFloat, right: UIKit.NSLayoutXAxisAnchor?, paddingRight: CoreFoundation.CGFloat, width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat)
+}
 public struct FileURLComponents {
 }
 public protocol FileWritable {
